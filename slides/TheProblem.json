@@ -1,0 +1,45 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\TheProblem\\02af42e8cff5a97d8f322bde5ab837c60aa1be6e3fcab615cb6ff4e9242341fb.mp4",
+      "rev_file": "slides\\files\\TheProblem\\02af42e8cff5a97d8f322bde5ab837c60aa1be6e3fcab615cb6ff4e9242341fb_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\TheProblem\\e327c50ab24637cfce0121aa601f75d2afa2a49762aa988c972ba092d96c9692.mp4",
+      "rev_file": "slides\\files\\TheProblem\\e327c50ab24637cfce0121aa601f75d2afa2a49762aa988c972ba092d96c9692_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\TheProblem\\e914eaee4885765553de155dcf2845fcc05d84e24202d9b8e3fe37219c54a329.mp4",
+      "rev_file": "slides\\files\\TheProblem\\e914eaee4885765553de155dcf2845fcc05d84e24202d9b8e3fe37219c54a329_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

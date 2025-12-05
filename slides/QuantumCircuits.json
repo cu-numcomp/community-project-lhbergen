@@ -1,0 +1,93 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\75e5db9871bb0dbce7d3456b2e8ecfa4c4b745e380831516c82c1d8f4e320ce6.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\75e5db9871bb0dbce7d3456b2e8ecfa4c4b745e380831516c82c1d8f4e320ce6_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\e1dcd8acf5f8ac80f122b9a9e754d2b6b729d0cb91724b75fde1b6b1dde8e9f5.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\e1dcd8acf5f8ac80f122b9a9e754d2b6b729d0cb91724b75fde1b6b1dde8e9f5_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\675db6e35fdb8c83d7265778d25594014efaa7301a8bf6a593d44f97c4f27ccd.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\675db6e35fdb8c83d7265778d25594014efaa7301a8bf6a593d44f97c4f27ccd_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\cc63e453d7253d3424f601dc92c73579f085bd47611113afe9371cfb27829739.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\cc63e453d7253d3424f601dc92c73579f085bd47611113afe9371cfb27829739_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\e5523835d166e2f03f02f81371e83da0bc571ce575cb141da83c01f088b918b3.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\e5523835d166e2f03f02f81371e83da0bc571ce575cb141da83c01f088b918b3_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\514654ecf92e2be3f6b9848bbaaa9e4d20e87d5f58d785e231e452668e298502.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\514654ecf92e2be3f6b9848bbaaa9e4d20e87d5f58d785e231e452668e298502_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QuantumCircuits\\2ff2d3f3014e1c26e703dbe3de73c2aee11224fd0523da8642f641e48348cbd0.mp4",
+      "rev_file": "slides\\files\\QuantumCircuits\\2ff2d3f3014e1c26e703dbe3de73c2aee11224fd0523da8642f641e48348cbd0_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

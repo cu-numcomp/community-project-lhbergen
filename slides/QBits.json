@@ -1,0 +1,69 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QBits\\f977996e8493949121d0334f5b2bf1ac8ed2a1041963a2e147cd2f73301f9fea.mp4",
+      "rev_file": "slides\\files\\QBits\\f977996e8493949121d0334f5b2bf1ac8ed2a1041963a2e147cd2f73301f9fea_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QBits\\1d9427a06a0e074bb5746795c1de014068357abefa258b69f27ad2cadf806d68.mp4",
+      "rev_file": "slides\\files\\QBits\\1d9427a06a0e074bb5746795c1de014068357abefa258b69f27ad2cadf806d68_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QBits\\c2060409ca670333b5dbaf4e5d4b7445b17d8de5bbf36314e673b6a8e74e13b6.mp4",
+      "rev_file": "slides\\files\\QBits\\c2060409ca670333b5dbaf4e5d4b7445b17d8de5bbf36314e673b6a8e74e13b6_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QBits\\6199385a9be8f17f1ec3a361aed259448c2475ebb011a0270dfeb6fa0371a665.mp4",
+      "rev_file": "slides\\files\\QBits\\6199385a9be8f17f1ec3a361aed259448c2475ebb011a0270dfeb6fa0371a665_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides\\files\\QBits\\fc494ba081daa46f7fefeb402ade3dcafb4f5873410502bf36447391dff391a9.mp4",
+      "rev_file": "slides\\files\\QBits\\fc494ba081daa46f7fefeb402ade3dcafb4f5873410502bf36447391dff391a9_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
